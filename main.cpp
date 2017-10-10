@@ -34,8 +34,8 @@ void display() {
 
 
     //initialize the variables.
-    GLint x = 50;
-    GLint y = 50;
+    GLint x;
+    GLint y;
     GLint colorCode = 1;
 
     for(y = 50; y <= 350; y += 50) {
